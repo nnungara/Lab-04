@@ -1,3 +1,35 @@
 @charset "UTF-8";
 /* CSS Document */
 
+.if {
+	width: 825px;
+	height: 765px;
+	background-color: black;
+	color:white;
+	
+		
+}
+
+.if img{
+	width: 600px;
+	float:left;
+}
+
+.if p{
+	padding-top: 500px;
+	
+}
+
+
+.adobe img {
+	width:500px;
+	padding-bottom: 10px;
+	padding-left: 800px;
+}
+
+.adobe p{
+	color:red;
+	padding-right: 800px;
+	font-family: Constantia, Lucida Bright, DejaVu Serif, Georgia, serif;
+	font-size:50px;
+}
